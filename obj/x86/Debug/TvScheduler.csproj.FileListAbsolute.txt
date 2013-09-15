@@ -1,0 +1,59 @@
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\TvScheduler.exe
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\TvScheduler.pdb
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\Interop.ADOX.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\Interop.ADOX.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.csproj.ResolveComReference.cache
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.About.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Login.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Main.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.MovieShedules.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.frmSelectTables.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.SoapSchedules.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Splash.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Properties.Resources.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.csproj.GenerateResource.Cache
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.exe
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.pdb
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.csproj.ResolveComReference.cache
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.exe
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.pdb
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\TvScheduler.exe
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\TvScheduler.pdb
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\Interop.ADOX.dll
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.csprojResolveAssemblyReference.cache
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.About.resources
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.DocSchedules.resources
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Login.resources
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Main.resources
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.MovieShedules.resources
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.frmSelectTables.resources
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.SoapSchedules.resources
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Splash.resources
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Properties.Resources.resources
+C:\Users\IMOGIE\Documents\Visual Studio 2012\Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.csproj.GenerateResource.Cache
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Statistics.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\TvScheduler.exe.config
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\TvScheduler.exe.manifest
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\TvScheduler.application
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.exe.manifest
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.application
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.Select Tabels.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.TimeLine.resources
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\adodb.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\PresentationCore.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\PresentationFramework.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\System.Data.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\System.Deployment.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\System.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\System.Drawing.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\System.Windows.Forms.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\System.Xml.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\System.Xml.Linq.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\WindowsBase.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\Office.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\bin\Debug\TvScheduler.mdb
+C:\Workspace\Biz Projects\MyTv\TvScheduler\TvScheduler\obj\x86\Debug\TvScheduler.csprojResolveAssemblyReference.cache
